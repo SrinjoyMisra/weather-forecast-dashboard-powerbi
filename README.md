@@ -5,18 +5,26 @@ The dashboard is a visually engaging and Power BI report designed to help users 
 
 # 🧰Tools Used-
 #📊 Power BI Desktop- Main data visualisation platform used for dashboard creation.
-#📁 Power Query- Data transformation and cleaning for reshaping the data.
-#🧠 DAX(Data Analysis Expresssions)- For calculating different measures, dynamic visuals and conditional formatting.
-#📄 Data Modelling- For establishing relationships between tables.
-#📁 File Format- .pbix for development and .png for dashboard previews.
+  
+  #📁 Power Query- Data transformation and cleaning for reshaping the data.
+  
+  #🧠 DAX(Data Analysis Expresssions)- For calculating different measures, dynamic visuals and conditional formatting.
+  
+  #📄 Data Modelling- For establishing relationships between tables.
+  
+  #📁 File Format- .pbix for development and .png for dashboard previews.
 
 # 🗄️Data Source
 All data is collected from weatherapi.com 
 
 # 📌Highlights
 The dashboard explores and compares  the temperature, humidity,air quality, precipitation and other factors of mentioned cities.
-It will help people plan their days according to the weather condition of the cities.
-It will help bussiness to stratigize and sell their products accordingly.
-Tourists can plan their trips according to the weather forecast.
+  
+  It will help people plan their days according to the weather condition of the cities.
+  
+  It will help bussiness to stratigize and sell their products accordingly.
+  
+  Tourists can plan their trips according to the weather forecast.
 
 
+[Weather Forecast Dashboard](https://github.com/SrinjoyMisra/weather-forecast-dashboard-powerbi/blob/main/WeatherForecast.png)
